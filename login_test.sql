@@ -41,7 +41,7 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `name`, `email`, `password`, `md5_pass`, `date`, `gender`) VALUES
+INSERT INTO `users` (`id`, `name`, `email`, `password`, `md5_pass`, `date`, `gender`) VALUES();
 
 --
 -- Indexes for dumped tables
